@@ -1,6 +1,6 @@
 # little-adventurer-rpg
 
-This project was based on a Udemy course with a similar title. While i had plans to build upon and release a small game from this, I ultimately decided against it early on.
+After a hiatus from Udemy courses, I was exited to browse the catalog and stumbled upon the Little Adventurer RPG course. Enrolling in the program proved to be an incredibly enjoyable experience, allowing me to gain valuable insights and learn new design approaches. Despite some imperfections, this course provided a valuable opportunity to enrich my programming skills and expand my knowledge in the field.
 
 ## Footage
 
